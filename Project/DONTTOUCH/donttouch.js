@@ -99,7 +99,7 @@ class TrueOrFalseQuestion extends Question {
 let p = "D";
 let primitiveQuestionsArray = [
   new PrimitiveTypeQuestion(
-    'var sample = "Lambda School";',
+    'var sample = "BloomTech";',
     "string",
     "Anytime you see some characters with either single (') or double (\") quotes around them, you can assume it is a String."
   ),
